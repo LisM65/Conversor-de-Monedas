@@ -1,0 +1,14 @@
+[
+  {
+    "moneda_actual": "USD",
+    "moneda_convertida": "ARS",
+    "monto_actual": 1030.5,
+    "monto_convertida": 15457.5
+  },
+  {
+    "moneda_actual": "USD",
+    "moneda_convertida": "BRL",
+    "monto_actual": 6.188,
+    "monto_convertida": 346.528
+  }
+]
